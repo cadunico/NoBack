@@ -1,4 +1,5 @@
-<img width="646" height="634" alt="Captura de tela de 2025-09-04 13-40-28" src="https://github.com/user-attachments/assets/7439b142-ce04-48ff-9ea5-5eeef76237f1" />
+
+<img width="1160" height="632" alt="Versions" src="https://github.com/user-attachments/assets/6f24655b-b644-400c-9823-841b0f628921" />
 
 # NoBack
 Python program with a graphical interface to remove the background from images, using [rembg](https://github.com/danielgatis/rembg).
